@@ -13,5 +13,6 @@ public class Node {
         System.out.println("Linked List");
         System.out.println("Singly linked list");
         int a = 10;
+        int b = 10;
     }
 }
